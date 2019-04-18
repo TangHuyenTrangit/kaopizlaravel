@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"us",
+				"user_login"
+			],
+			[
+				"dang",
+				"dangnhapAdmin"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"sl",
+				"slide"
+			],
+			[
+				"bs3-in",
+				"bs3-input-group\tbs3-input-group"
+			],
+			[
+				"id",
+				"idTinTuc"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"ra",
+				"radio-inline \tBootstrap 3 Class"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 3 Class"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"Lo",
+				"LoaiTin"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"tin",
+				"tintuc"
+			],
+			[
+				"rede",
+				"redirect"
+			],
+			[
+				"L",
+				"LoaiTin"
+			],
+			[
+				"TH",
+				"TheLoai"
+			],
+			[
+				"the",
+				"theloai"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"Th",
+				"TheLoai"
+			],
+			[
+				"Theloai",
+				"TheLoaiCotroller"
+			],
+			[
+				"W",
+				"width\tproperty"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"sta",
+				"status\t XMLHttpRequest"
+			],
+			[
+				"sat",
+				"status\t XMLHttpRequest"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"onCl",
+				"onCloseForm"
+			],
+			[
+				"oNcL",
+				"onCloseForm"
+			],
+			[
+				"el",
+				"elemtTaskForm"
+			],
+			[
+				"Ta",
+				"TaskForm"
+			],
+			[
+				"isD",
+				"isDisplayFrom"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"co",
+				"con\tfunction __construct"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"Pos",
+				"_POST"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"lo",
+				"Logout"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"Num",
+				"Number2"
+			],
+			[
+				"Nu",
+				"Number2"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"PA",
+				"password"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"a",
+				"A"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"geti",
+				"getItem\t( key: DOMString ): DOMString Storage"
+			],
+			[
+				"loca",
+				"localStorage\t: Storage Window"
+			],
+			[
+				"compo",
+				"componentWillMount"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"Task",
+				"TaskList"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bs3-table",
+				"bs3-table:hover\tbs3-table-hover"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"bs3-inp",
+				"bs3-input:date\tbs3-input-date"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"txt",
+				"txtPassword"
+			],
+			[
+				"tx",
+				"txtName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"on",
+				"onHandldeChange"
+			],
+			[
+				"bs3-b",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"bs3-ro",
+				"bs3-row-col\tbs3-row-col"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/ex1.php",
+			"settings":
+			{
+				"buffer_size": 743,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ex1-1.php",
+			"settings":
+			{
+				"buffer_size": 627,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/slide/danhsach.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/header.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/pages/lienhe.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/slide.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/layout/slide.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/menu.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/index.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/lienhe.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout/footer.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/pages/trangchu.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/layout/header.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Kernel.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Middleware/Admin.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/user/sua.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/login.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/LoaiTinController.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/TinTucController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/user/them.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/user/danhsach.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/routes/web.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/User.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/TinTuc.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/layout/menu.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/slide/sua.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/SlideController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/slide/them.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/tintuc/sua.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/CommentController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/tintuc/danhsach.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/AjaxController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/tintuc/them.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/layout/index.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/loaitin/sua.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/loaitin/them.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/Controllers/TheLoaiController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/theloai/danhsach.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/loaitin/danhsach.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/theloai/them.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Http/LoaiTinController.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/theloai/sua.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/giao dien admin/cate_list.html",
+		"/C/xampp/htdocs/kaopizLaravel/app/Comment.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/TheLoai.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/LoaiTin.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/admin/layout.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Slide.php",
+		"/E/Lập trình Web/Bài tập lớn/LapTrinhWeb-master/.env",
+		"/E/Lập trình Web/Bài tập lớn/LapTrinhWeb-master/bootstrap/app.php",
+		"/E/đồ án/todolist/src/components/TaskItem.js",
+		"/E/đồ án/todolist/src/components/TaskList.js",
+		"/E/đồ án/todolist/src/App.js",
+		"/E/đồ án/todolist/src/App.css",
+		"/C/xampp/htdocs/kaopizLaravel/resources/shares/edit.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/resources/shares/index.blade.php",
+		"/C/xampp/htdocs/kaopizLaravel/.env",
+		"/C/xampp/htdocs/kaopizLaravel/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/kaopizLaravel/app/Share.php",
+		"/C/xampp/htdocs/kaopizLaravel/database/migrations/2019_04_07_073712_create_shares_table.php",
+		"/C/xampp/htdocs/phpkaopiz/index3.php",
+		"/C/xampp/htdocs/phpkaopiz/tableDPO.php",
+		"/C/xampp/htdocs/phpkaopiz/DPO.php",
+		"/C/xampp/htdocs/phpkaopiz/Caculator.php",
+		"/C/xampp/htdocs/phpkaopiz/HocSinh.PHP",
+		"/C/xampp/htdocs/phpkaopiz/userDPO.php",
+		"/C/xampp/htdocs/phpkaopiz/KetQua.php",
+		"/C/xampp/htdocs/phpkaopiz/KetQua2.php",
+		"/C/xampp/htdocs/phpkaopiz/exception.php",
+		"/C/xampp/htdocs/phpkaopiz/logout.php",
+		"/C/xampp/htdocs/phpkaopiz/login.php",
+		"/C/xampp/htdocs/phpkaopiz/index1.php",
+		"/C/xampp/htdocs/phpkaopiz/session.php",
+		"/E/htdocs/chanle.php",
+		"/C/xampp/htdocs/phpkaopiz/kp3.php",
+		"/C/xampp/htdocs/phpkaopiz/index.php",
+		"/E/htdocs/kp4.php",
+		"/E/htdocs/kp3.php",
+		"/E/Lập trình Web/File Thực hành HTML/bai3_1.html",
+		"/E/Lập trình Web/File Thực hành HTML/kp1.html",
+		"/E/đồ án/todolist/src/components/Sort.js",
+		"/E/đồ án/todolist/src/components/TaskForm.js",
+		"/E/đồ án/todolist/src/components/Search.js",
+		"/E/đồ án/todolist/src/components/Control.js",
+		"/E/đồ án/todolist/public/index.html",
+		"/E/đồ án/form/public/index.html",
+		"/E/đồ án/form/public/manifest.json",
+		"/E/đồ án/form/package-lock.json",
+		"/E/đồ án/myshop/public/ex1.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/ex1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/ex1-1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lienhe.blade.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
